@@ -1,4 +1,3 @@
-
 import searchIcon from '../assets/images/icon-search.svg';
 
 function SearchForm({ onSubmit, word, onWordChange, error }) {
