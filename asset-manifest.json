@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fm-dictionary-app/static/css/main.2780417d.css",
+    "main.js": "/fm-dictionary-app/static/js/main.579ce43f.js",
+    "static/js/787.3a43e3f5.chunk.js": "/fm-dictionary-app/static/js/787.3a43e3f5.chunk.js",
+    "index.html": "/fm-dictionary-app/index.html",
+    "static/media/icon-new-window.svg": "/fm-dictionary-app/static/media/icon-new-window.2d911fba2868d0f313a8b170ed408bb8.svg",
+    "static/media/logo.svg": "/fm-dictionary-app/static/media/logo.afbe15e827b060eab1c775e3afad2b73.svg",
+    "static/media/icon-moon.svg": "/fm-dictionary-app/static/media/icon-moon.fd52e618de9fdb62d0edd814557c07e3.svg",
+    "static/media/icon-search.svg": "/fm-dictionary-app/static/media/icon-search.13357ba7763bb4388cba203d0388c375.svg",
+    "static/media/icon-play.svg": "/fm-dictionary-app/static/media/icon-play.a659db0104303a8b8ae071e0cf90119d.svg",
+    "static/media/icon-arrow-down.svg": "/fm-dictionary-app/static/media/icon-arrow-down.aa902848ffe2b4ed5369.svg",
+    "main.2780417d.css.map": "/fm-dictionary-app/static/css/main.2780417d.css.map",
+    "main.579ce43f.js.map": "/fm-dictionary-app/static/js/main.579ce43f.js.map",
+    "787.3a43e3f5.chunk.js.map": "/fm-dictionary-app/static/js/787.3a43e3f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2780417d.css",
+    "static/js/main.579ce43f.js"
+  ]
+}
