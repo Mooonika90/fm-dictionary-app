@@ -136,7 +136,7 @@ li {
 
 header,
 main {
-	width: clamp(25rem, 60vw, 46rem);
+	width: clamp(20rem, 60vw, 46rem);
 	margin: auto;
 }
 main {
@@ -381,6 +381,7 @@ h4 span {
 	font-size: 0.7rem;
 	text-decoration: underline;
 	color: var(--additional-accent);
+	margin-bottom: 2rem;
 }
 
 .infoSource span {
@@ -400,4 +401,11 @@ h4 span {
 .def ul li p {
 	color: var(--additional-accent);
 	margin-top: 0.5rem;
+}
+
+@media (max-width: 375px) {
+	header,
+	main {
+		width: clamp(15rem, 60vw, 46rem);
+	}
 }

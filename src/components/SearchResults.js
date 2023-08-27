@@ -9,10 +9,6 @@ function SearchResults({ def, fetchError }) {
 	const defWord = def[0]?.word;
 	const phonetic = def[0]?.phonetic;
 
-	const meandef = def.meanings;
-
-	console.log(def);
-
 	return (
 		<section className='def'>
 			<header>
@@ -45,7 +41,8 @@ function SearchResults({ def, fetchError }) {
 								</ul>
 								{meaning.synonyms.length > 0 ? (
 									<h4>
-										Synonyms <span> {meaning.synonyms.join(',')}</span>
+										Synonyms{' '}
+										<span> {meaning.synonyms.slice(0, 6).join(', ')}</span>
 									</h4>
 								) : (
 									''
